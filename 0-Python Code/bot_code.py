@@ -23,7 +23,7 @@ total_time = 0
 
 # the intervals where the bot will search for obstacles
 y_search, x_start, x_end = 350, 435, 450
-                     
+
 y_search2 = 350   # for the birds
 
 
